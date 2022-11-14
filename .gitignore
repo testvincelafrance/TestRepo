@@ -16,6 +16,7 @@ ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json
 
 #Wwise
 Assets/Wwise/Editor/ProjectData/AkWwiseProjectData.asset
+Assets/Wwise/Editor/ProjectData/AkWwiseProjectData.asset.meta
 TestRepo_WwiseProject/.cache/
 TestRepo_WwiseProject/*.prof
 TestRepo_WwiseProject/*_WwiseProject.*.validationcache
