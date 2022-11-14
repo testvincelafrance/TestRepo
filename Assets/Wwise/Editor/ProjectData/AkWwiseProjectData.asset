@@ -66,8 +66,22 @@ MonoBehaviour:
     ParentPath: SoundBanks\Default Work Unit
     guid: 0bad9dd28372b44e8d188021a66b7b6a
     GuidInternal: 
-    m_lastTime: -8585331452235908451
-    List: []
+    m_lastTime: -8585331446983108389
+    List:
+    - name: New_SoundBank
+      guid: 424e252388b9de489da0f21071a6526c
+      id: 4072029455
+      PathAndIcons:
+      - ElementName: SoundBanks
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 0bad9dd28372b44e8d188021a66b7b6a
+      - ElementName: New_SoundBank
+        ObjectType: 7
+        guid: 424e252388b9de489da0f21071a6526c
+      Path: SoundBanks\Default Work Unit\New_SoundBank
   EventWwu:
   - PhysicalPath: Events\Default Work Unit.wwu
     PathAndIcons:
@@ -80,8 +94,25 @@ MonoBehaviour:
     ParentPath: Events\Default Work Unit
     guid: e1f1d1afa9baac42a576d4d020c06903
     GuidInternal: 
-    m_lastTime: -8585331452235858408
-    List: []
+    m_lastTime: -8585331446983158850
+    List:
+    - name: Play_Son
+      guid: 4fda46a629600948baeafed086d5ee4f
+      id: 2990131326
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: e1f1d1afa9baac42a576d4d020c06903
+      - ElementName: Play_Son
+        ObjectType: 3
+        guid: 4fda46a629600948baeafed086d5ee4f
+      Path: Events\Default Work Unit\Play_Son
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
   RtpcWwu:
   - PhysicalPath: Game Parameters\Default Work Unit.wwu
     PathAndIcons:
@@ -139,7 +170,7 @@ MonoBehaviour:
     m_lastTime: -8585331452236669162
     List: []
   ExpandedFileSystemItemIds: 
-  ExpandedWaapiItemIds: 
+  ExpandedWaapiItemIds: 0500000006000000e4010000e5010000
   AutoSyncSelection: 0
   autoPopulateEnabled: 1
   currentDataSource: 0

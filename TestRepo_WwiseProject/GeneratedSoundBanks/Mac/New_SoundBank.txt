@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2990131326	Play_Son			\Default Work Unit\Play_Son	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	819290750	AMB_2D_MainRoomtone	C:\Users\Vincent\Documents\GitHub\TestRepo\TestRepo_WwiseProject\.cache\Mac\SFX\AMB_2D_MainRoomtone_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Son\AMB_2D_MainRoomtone		22075528
+

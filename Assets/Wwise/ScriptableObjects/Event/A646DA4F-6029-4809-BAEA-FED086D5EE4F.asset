@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0f6e97b60f4e1a4b8363d0a5951c800, type: 3}
+  m_Name: A646DA4F-6029-4809-BAEA-FED086D5EE4F
+  m_EditorClassIdentifier: 
+  objectName: Play_Son
+  id: 2990131326
+  guid: A646DA4F-6029-4809-BAEA-FED086D5EE4F
