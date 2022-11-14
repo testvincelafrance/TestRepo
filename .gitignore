@@ -8,7 +8,10 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
-/[Uu]ser[Ss]ettings/							
+/[Uu]ser[Ss]ettings/
+
+UserSettings/Layouts/default-2021.dwlt
+ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json						
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
