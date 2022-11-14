@@ -15,6 +15,7 @@ UserSettings/Layouts/default-2021.dwlt
 ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json	
 
 #Wwise
+Assets/Wwise/Editor/ProjectData/AkWwiseProjectData.asset
 TestRepo_WwiseProject/.cache/
 TestRepo_WwiseProject/*.prof
 TestRepo_WwiseProject/*_WwiseProject.*.validationcache
