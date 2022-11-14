@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
 	<RootPaths>
-		<ProjectRoot>C:\Users\Vincent\Documents\GitHub\TestRepo\TestRepo_WwiseProject\</ProjectRoot>
-		<SourceFilesRoot>C:\Users\Vincent\Documents\GitHub\TestRepo\TestRepo_WwiseProject\.cache\Mac\</SourceFilesRoot>
-		<SoundBanksRoot>C:\Users\Vincent\Documents\GitHub\TestRepo\TestRepo_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ProjectRoot>C:\Users\Simon\Documents\GitHub\TestRepo\TestRepo_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Simon\Documents\GitHub\TestRepo\TestRepo_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Simon\Documents\GitHub\TestRepo\TestRepo_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\Users\Vincent\Documents\GitHub\TestRepo\TestRepo_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>C:\Users\Simon\Documents\GitHub\TestRepo\TestRepo_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
@@ -16,11 +16,19 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="4072029455" Language="SFX" Hash="2871264392">
+		<SoundBank Id="4072029455" Language="SFX" Hash="2004309239">
 			<ObjectPath>\SoundBanks\Default Work Unit\New_SoundBank</ObjectPath>
 			<ShortName>New_SoundBank</ShortName>
 			<Path>New_SoundBank.bnk</Path>
 			<IncludedEvents>
+				<Event Id="4289605760" Name="Play_Amb_Traffic" ObjectPath="\Events\Default Work Unit\Play_Amb_Traffic" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="846003632" Language="SFX">
+							<ShortName>Ambience, Urban, City, Traffic, Distant, Intense Horns SND52399.wav</ShortName>
+							<Path>SFX\Ambience, Urban, City, Traffic, Distant, Intense Horns SND52399_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
 				<Event Id="2990131326" Name="Play_Son" ObjectPath="\Events\Default Work Unit\Play_Son" DurationType="Infinite">
 					<IncludedMemoryFiles>
 						<File Id="819290750" Language="SFX">

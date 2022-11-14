@@ -14,6 +14,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_Amb_Traffic" ID="{9825C1AA-DF88-4CE8-ABC1-F62DC8F1AFF8}">
+					<ChildrenList>
+						<Action Name="" ID="{9439C70D-D97C-43B2-809F-B063106EE4A8}" ShortID="1009949458">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Amb_Traffic" ID="{499A0FA5-3780-4F5F-834A-492F9645099F}" WorkUnitID="{9EAAA90C-A811-4F72-B849-A8BE9BEAA8AE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

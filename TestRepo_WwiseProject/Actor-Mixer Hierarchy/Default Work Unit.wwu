@@ -43,6 +43,32 @@
 					</ChildrenList>
 					<ObjectLists/>
 				</RandomSequenceContainer>
+				<Sound Name="Amb_Traffic" ID="{499A0FA5-3780-4F5F-834A-492F9645099F}" ShortID="673315300">
+					<PropertyList>
+						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{20C80E75-5A03-4E93-A0A8-91954039FB3D}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{9B676883-4DB3-42F3-9077-DE0D390DC502}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Ambience, Urban, City, Traffic, Distant, Intense Horns SND52399" ID="{8E6D7B12-3FF4-4B7C-8133-7FD76CDDD3D8}">
+							<Language>SFX</Language>
+							<AudioFile>Ambience, Urban, City, Traffic, Distant, Intense Horns SND52399.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="846003632"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="Ambience, Urban, City, Traffic, Distant, Intense Horns SND52399" ID="{8E6D7B12-3FF4-4B7C-8133-7FD76CDDD3D8}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>

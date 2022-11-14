@@ -13,6 +13,7 @@ namespace AK
 {
     namespace EVENTS
     {
+        static const AkUniqueID PLAY_AMB_TRAFFIC = 4289605760U;
         static const AkUniqueID PLAY_SON = 2990131326U;
     } // namespace EVENTS
 

@@ -1,6 +1,8 @@
 Event	ID	Name			Wwise Object Path	Notes
 	2990131326	Play_Son			\Default Work Unit\Play_Son	
+	4289605760	Play_Amb_Traffic			\Default Work Unit\Play_Amb_Traffic	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	819290750	AMB_2D_MainRoomtone	C:\Users\Vincent\Documents\GitHub\TestRepo\TestRepo_WwiseProject\.cache\Mac\SFX\AMB_2D_MainRoomtone_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Son\AMB_2D_MainRoomtone		22075528
+	819290750	AMB_2D_MainRoomtone	C:\Users\Simon\Documents\GitHub\TestRepo\TestRepo_WwiseProject\.cache\Mac\SFX\AMB_2D_MainRoomtone_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Son\AMB_2D_MainRoomtone		22075528
+	846003632	Amb_Traffic	C:\Users\Simon\Documents\GitHub\TestRepo\TestRepo_WwiseProject\.cache\Mac\SFX\Ambience, Urban, City, Traffic, Distant, Intense Horns SND52399_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Amb_Traffic		5797136
 
