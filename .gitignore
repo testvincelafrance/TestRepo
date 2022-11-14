@@ -10,8 +10,11 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+#Rajout Unity
 UserSettings/Layouts/default-2021.dwlt
-ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json						
+ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json	
+
+#Wwise					
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
