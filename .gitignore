@@ -14,7 +14,12 @@
 UserSettings/Layouts/default-2021.dwlt
 ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json	
 
-#Wwise					
+#Wwise
+TestRepo_WwiseProject/.cache/
+TestRepo_WwiseProject/*.prof
+TestRepo_WwiseProject/*_WwiseProject.*.validationcache
+TestRepo_WwiseProject/*_WwiseProject.*.wsettings
+TestRepo_WwiseProject/**/*.akd				
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
